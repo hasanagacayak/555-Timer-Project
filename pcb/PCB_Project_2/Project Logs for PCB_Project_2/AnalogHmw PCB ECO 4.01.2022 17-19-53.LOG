@@ -1,0 +1,62 @@
+Added Component: Designator=B1(Bat)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(Diode)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(Tran)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Motor1(Motor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PT1(Pot)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S1(Sensor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(555 Timer)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=GND Pin=L1-3
+Added Pin To Net: NetName=NetB1_1 Pin=Motor1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Motor1-2
+Added Pin To Net: NetName=NetPT1_1 Pin=PT1-1
+Added Pin To Net: NetName=NetPT1_2 Pin=PT1-2
+Added Pin To Net: NetName=NetPT1_3 Pin=PT1-3
+Added Pin To Net: NetName=NetB1_1 Pin=R1-1
+Added Pin To Net: NetName=NetPT1_1 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetL1_2 Pin=R2-2
+Added Pin To Net: NetName=NetPT1_2 Pin=S1-1
+Added Pin To Net: NetName=NetC1_1 Pin=S1-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-2
+Added Pin To Net: NetName=NetR2_1 Pin=U1-3
+Added Pin To Net: NetName=NetB1_1 Pin=U1-4
+Added Pin To Net: NetName=NetC2_2 Pin=U1-5
+Added Pin To Net: NetName=NetC1_1 Pin=U1-6
+Added Pin To Net: NetName=NetPT1_3 Pin=U1-7
+Added Pin To Net: NetName=NetB1_1 Pin=U1-8
+Added Member To Class: ClassName=AnalogHmwsch Member=Component B1 Bat
+Added Member To Class: ClassName=AnalogHmwsch Member=Component C1 Cap
+Added Member To Class: ClassName=AnalogHmwsch Member=Component C2 Cap
+Added Member To Class: ClassName=AnalogHmwsch Member=Component D1 Diode
+Added Member To Class: ClassName=AnalogHmwsch Member=Component L1 Tran
+Added Member To Class: ClassName=AnalogHmwsch Member=Component Motor1 Motor
+Added Member To Class: ClassName=AnalogHmwsch Member=Component PT1 Pot
+Added Member To Class: ClassName=AnalogHmwsch Member=Component R1 Res
+Added Member To Class: ClassName=AnalogHmwsch Member=Component R2 Res
+Added Member To Class: ClassName=AnalogHmwsch Member=Component S1 Sensor
+Added Member To Class: ClassName=AnalogHmwsch Member=Component U1 555 Timer

@@ -1,0 +1,71 @@
+Added Component: Designator=*(555 Timer)
+Add component. Clean all parameters for all variants
+Added Component: Designator=1k(Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=5V(Bat)
+Add component. Clean all parameters for all variants
+Added Component: Designator=10K(Pot)
+Add component. Clean all parameters for all variants
+Added Component: Designator=10K(Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=10uF(Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=100nF(Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC238(Tran)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Button(But)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(Diode)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(Diode)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Green Led(Led)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Motor(Motor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=temperature sensor(Sensor)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=5V-2
+Added Pin To Net: NetName=GND Pin=10uF-1
+Added Pin To Net: NetName=GND Pin=100nF-1
+Added Pin To Net: NetName=GND Pin=BC238-3
+Added Net: Name=GND
+Added Pin To Net: NetName=Net1k_2 Pin=1k-2
+Added Pin To Net: NetName=Net1k_2 Pin=5V-1
+Added Pin To Net: NetName=Net1k_2 Pin=Button-1
+Added Pin To Net: NetName=Net1k_2 Pin=Motor-1
+Added Net: Name=Net1k_2
+Added Net: Name=Net10K_1
+Added Pin To Net: NetName=Net10K_2 Pin=D1-1
+Added Net: Name=Net10K_2
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=10uF-2
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=10K-1
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net*_4 Pin=temperature sensor-2
+Added Net: Name=Net*_4
+Added Pin To Net: NetName=Net*_5 Pin=100nF-2
+Added Net: Name=Net*_5
+Added Pin To Net: NetName=Net*_7 Pin=1k-1
+Added Pin To Net: NetName=Net*_7 Pin=D2-1
+Added Net: Name=Net*_7
+Added Pin To Net: NetName=NetBC238_1 Pin=BC238-1
+Added Pin To Net: NetName=NetBC238_1 Pin=Green Led-2
+Added Net: Name=NetBC238_1
+Added Pin To Net: NetName=NetButton_2 Pin=Button-2
+Added Pin To Net: NetName=NetButton_2 Pin=temperature sensor-1
+Added Net: Name=NetButton_2
+Added Pin To Net: NetName=NetGreen Led_1 Pin=Green Led-1
+Added Pin To Net: NetName=NetGreen Led_1 Pin=Motor-2
+Added Net: Name=NetGreen Led_1
+Added Class: Name=AnalogHmwsch
+Added Room: Name=AnalogHmwsch

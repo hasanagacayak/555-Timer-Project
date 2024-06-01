@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=Net10K_2 Pin=D1-1
+Change Component Designator: OldDesignator=10K NewDesignator=10K Pot
+Added Pin To Net: NetName=Net10K_2 Pin=10K-2
+Added Pin To Net: NetName=Net10K_2 Pin=BC238-2
+Change Net Name : Old Net Name=Net10K_1 New Net Name=Net10K Pot_1
+Added Net: Name=Net10K Pot_2
+Added Member To Class: ClassName=AnalogHmwsch Member=Component * 555 Timer
+Added Member To Class: ClassName=AnalogHmwsch Member=Component 1k Res
+Added Member To Class: ClassName=AnalogHmwsch Member=Component 5V Bat
+Added Member To Class: ClassName=AnalogHmwsch Member=Component 10K Pot Pot
+Added Member To Class: ClassName=AnalogHmwsch Member=Component 10K Res
+Added Member To Class: ClassName=AnalogHmwsch Member=Component 10uF Cap
+Added Member To Class: ClassName=AnalogHmwsch Member=Component 100nF Cap
+Added Member To Class: ClassName=AnalogHmwsch Member=Component BC238 Tran
+Added Member To Class: ClassName=AnalogHmwsch Member=Component Button But
+Added Member To Class: ClassName=AnalogHmwsch Member=Component D1 Diode
+Added Member To Class: ClassName=AnalogHmwsch Member=Component D2 Diode
+Added Member To Class: ClassName=AnalogHmwsch Member=Component Green Led Led
+Added Member To Class: ClassName=AnalogHmwsch Member=Component Motor
+Added Member To Class: ClassName=AnalogHmwsch Member=Component temperature sensor Sensor
+Added Room: Name=AnalogHmwsch
